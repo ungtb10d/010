@@ -1,6 +1,13 @@
 # kaos 010
-🆄🅽🅶🆃🅱10🅳# ./blckswan & >> /root/log
+           
+## 🆄🅽🅶🆃🅱10🅳# ./blckswan & >> /root/log
 
+
+
+
+    
+            
+            
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣧⣶⣶⣶⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⣠⣾⢿⣿⣿⣿⣏⠉⠉⠛⠛⠿⣷⣕⠀⠀⠀⠀⠀⠀⢀⡀
@@ -18,5 +25,6 @@
             
 [https://github.com/ungtb10d/kaos/raw/main/03112022/bensin.zip](https://github.com/ungtb10d/kaos/raw/main/03112022/bensin.zip)
 [https://drive.google.com/drive/folders/1xyy8hjj87RpfqRN0TN7gUDocF6vgPs8l?usp=sharing](https://drive.google.com/drive/folders/1xyy8hjj87RpfqRN0TN7gUDocF6vgPs8l?usp=sharing)
-		
-![svan.svg](swan.svg)  
+
+
+![svan.svg](swan.svg)
