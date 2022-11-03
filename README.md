@@ -1,8 +1,6 @@
 # kaos 010
 
-![svan.svg](swan.svg)
-![index.html](index.html)
-            
+![svan.svg](swan.svg)            
 🆄🅽🅶🆃🅱10🅳# ./blckswan & >> /root/log
     
             
