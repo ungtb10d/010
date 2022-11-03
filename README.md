@@ -3,7 +3,7 @@
         ![svan.svg](swan.svg)
         ![index.html](index.html)
                 
-        🆄🅽🅶🆃🅱10🅳# blckswan
+        🆄🅽🅶🆃🅱10🅳# ./blckswan & >> /root/log
         
                 
                 
