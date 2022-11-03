@@ -1,13 +1,13 @@
-# kaos 010
-           
-## 🆄🅽🅶🆃🅱10🅳# ./blckswan & >> /root/log
+420 blckswan kaos 010
 
+kaos 010
+========
 
-
+🆄🅽🅶🆃🅱10🅳#./[blckswan](https://raw.githubusercontent.com/ungtb10d/010/main/blckswan) & >> /root/log
+--------------------------------------------------------------------------------------------------------
 
     
-            
-            
+    '''
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣧⣶⣶⣶⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⣠⣾⢿⣿⣿⣿⣏⠉⠉⠛⠛⠿⣷⣕⠀⠀⠀⠀⠀⠀⢀⡀
@@ -22,9 +22,11 @@
             ⠀⠀⠀⠀⠀⠀⢀⣿⡟⠺⠭⠭⠿⠿⠿⠟⠋⠁⠀⠀⠀⠀⠙⠏⣦⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⢸⡟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            
-[https://github.com/ungtb10d/kaos/raw/main/03112022/bensin.zip](https://github.com/ungtb10d/kaos/raw/main/03112022/bensin.zip)
-[https://drive.google.com/drive/folders/1xyy8hjj87RpfqRN0TN7gUDocF6vgPs8l?usp=sharing](https://drive.google.com/drive/folders/1xyy8hjj87RpfqRN0TN7gUDocF6vgPs8l?usp=sharing)
+    '''
+    
 
+[bensin.zip](https://github.com/ungtb10d/kaos/blob/main/03112022/bensin.zip)
+
+[file archive](https://drive.google.com/drive/folders/1xyy8hjj87RpfqRN0TN7gUDocF6vgPs8l?usp=sharing)
 
 ![svan.svg](swan.svg)
